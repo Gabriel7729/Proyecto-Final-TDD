@@ -8,7 +8,6 @@ namespace Proyecto_Final_TDD.Main
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Bienvenido a la maquina de cafe, Cual desea que sea el tamaño de su vaso, pequeno,mediano o Grande (Porfavor escribir la opcion tal cual esta puesta en la sentencia.) ?");
             Cafetera cafetera;
             Vaso vasosPequeno;
             Vaso vasosMediano;
@@ -21,14 +20,21 @@ namespace Proyecto_Final_TDD.Main
             vasosMediano = new Vaso(5, 20);
             vasosGrande = new Vaso(5, 30);
             azuquero = new Azucarero(20);
-            //Scanner ingreso = new Scanner("");
-            var ingreso = new PacketReader("");
 
-            string Recipiente = ingreso.ReadNext<string>();
+            Console.WriteLine("Bienvenido a la maquina de cafe, Cual desea que sea el tamaño de su vaso, pequeno,mediano o Grande (Porfavor escribir la opcion tal cual esta puesta en la sentencia.) ?");
+            string recipiente = "";
+
+            while (recipiente != "pequeno" && recipiente != "mediano" && recipiente != "Grande")
+            {
+                recipiente = Console.ReadLine();
+            }
+
             Console.WriteLine("Cuantos vasos desea?");
-            int Cantidad = ingreso.ReadNext<int>();
+            int cantidad = Convert.ToInt32(Console.ReadLine());
+
             Console.WriteLine("Cuanta azucar desea?");
-            int CantAzucar = ingreso.ReadNext<int>();
+            int cantAzucar = Convert.ToInt32(Console.ReadLine());
+
             maquinaDeCafe = new MaquinaDeCafe();
             maquinaDeCafe.setCafetera(cafetera);
             maquinaDeCafe.setVasoPequeno(vasosPequeno);
@@ -37,18 +43,20 @@ namespace Proyecto_Final_TDD.Main
             maquinaDeCafe.setAzucar(azuquero);
 
 
-            Vaso vaso = maquinaDeCafe.getTipoVaso(Recipiente);
-            string resultado = maquinaDeCafe.getVasoDeCafe(vaso, Cantidad, CantAzucar);
+            Vaso vaso = maquinaDeCafe.getTipoVaso(recipiente);
+            string resultado = maquinaDeCafe.getVasoDeCafe(vaso, cantidad, cantAzucar);
 
             Console.WriteLine(resultado);
             Console.WriteLine(".... Usted ordeno: ");
             Console.WriteLine("Vasos de tamaño: ");
-            Console.WriteLine(Recipiente);
+            Console.WriteLine(recipiente);
             Console.WriteLine("Cantidad de vasos: ");
-            Console.WriteLine(Cantidad);
+            Console.WriteLine(cantidad);
             Console.WriteLine("y cantidad de azucar: ");
-            Console.WriteLine(CantAzucar);
+            Console.WriteLine(cantAzucar);
             Console.WriteLine("Que tenga un buen dia!");
+
+            Console.ReadKey();
         }
     }
 }
