@@ -1,0 +1,16 @@
+C:\Users\Lusan\Desktop\ITLA CUATRIMESTRE 7\Administración de proyectos de Software\Proyecto Final TDD\Proyecto Final TDD.Console\bin\Debug\netcoreapp3.1\Proyecto Final TDD.Main.exe
+C:\Users\Lusan\Desktop\ITLA CUATRIMESTRE 7\Administración de proyectos de Software\Proyecto Final TDD\Proyecto Final TDD.Console\bin\Debug\netcoreapp3.1\Proyecto Final TDD.Main.deps.json
+C:\Users\Lusan\Desktop\ITLA CUATRIMESTRE 7\Administración de proyectos de Software\Proyecto Final TDD\Proyecto Final TDD.Console\bin\Debug\netcoreapp3.1\Proyecto Final TDD.Main.runtimeconfig.json
+C:\Users\Lusan\Desktop\ITLA CUATRIMESTRE 7\Administración de proyectos de Software\Proyecto Final TDD\Proyecto Final TDD.Console\bin\Debug\netcoreapp3.1\Proyecto Final TDD.Main.runtimeconfig.dev.json
+C:\Users\Lusan\Desktop\ITLA CUATRIMESTRE 7\Administración de proyectos de Software\Proyecto Final TDD\Proyecto Final TDD.Console\bin\Debug\netcoreapp3.1\Proyecto Final TDD.Main.dll
+C:\Users\Lusan\Desktop\ITLA CUATRIMESTRE 7\Administración de proyectos de Software\Proyecto Final TDD\Proyecto Final TDD.Console\bin\Debug\netcoreapp3.1\Proyecto Final TDD.Main.pdb
+C:\Users\Lusan\Desktop\ITLA CUATRIMESTRE 7\Administración de proyectos de Software\Proyecto Final TDD\Proyecto Final TDD.Console\bin\Debug\netcoreapp3.1\Proyecto Final TDD.dll
+C:\Users\Lusan\Desktop\ITLA CUATRIMESTRE 7\Administración de proyectos de Software\Proyecto Final TDD\Proyecto Final TDD.Console\bin\Debug\netcoreapp3.1\Proyecto Final TDD.pdb
+C:\Users\Lusan\Desktop\ITLA CUATRIMESTRE 7\Administración de proyectos de Software\Proyecto Final TDD\Proyecto Final TDD.Console\obj\Debug\netcoreapp3.1\Proyecto Final TDD.Main.csprojAssemblyReference.cache
+C:\Users\Lusan\Desktop\ITLA CUATRIMESTRE 7\Administración de proyectos de Software\Proyecto Final TDD\Proyecto Final TDD.Console\obj\Debug\netcoreapp3.1\Proyecto Final TDD.Main.AssemblyInfoInputs.cache
+C:\Users\Lusan\Desktop\ITLA CUATRIMESTRE 7\Administración de proyectos de Software\Proyecto Final TDD\Proyecto Final TDD.Console\obj\Debug\netcoreapp3.1\Proyecto Final TDD.Main.AssemblyInfo.cs
+C:\Users\Lusan\Desktop\ITLA CUATRIMESTRE 7\Administración de proyectos de Software\Proyecto Final TDD\Proyecto Final TDD.Console\obj\Debug\netcoreapp3.1\Proyecto Final TDD.Main.csproj.CoreCompileInputs.cache
+C:\Users\Lusan\Desktop\ITLA CUATRIMESTRE 7\Administración de proyectos de Software\Proyecto Final TDD\Proyecto Final TDD.Console\obj\Debug\netcoreapp3.1\Proyecto Final TDD.Main.csproj.CopyComplete
+C:\Users\Lusan\Desktop\ITLA CUATRIMESTRE 7\Administración de proyectos de Software\Proyecto Final TDD\Proyecto Final TDD.Console\obj\Debug\netcoreapp3.1\Proyecto Final TDD.Main.dll
+C:\Users\Lusan\Desktop\ITLA CUATRIMESTRE 7\Administración de proyectos de Software\Proyecto Final TDD\Proyecto Final TDD.Console\obj\Debug\netcoreapp3.1\Proyecto Final TDD.Main.pdb
+C:\Users\Lusan\Desktop\ITLA CUATRIMESTRE 7\Administración de proyectos de Software\Proyecto Final TDD\Proyecto Final TDD.Console\obj\Debug\netcoreapp3.1\Proyecto Final TDD.Main.genruntimeconfig.cache

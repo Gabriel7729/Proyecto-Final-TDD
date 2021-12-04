@@ -1,0 +1,9 @@
+C:\Users\Lusan\Desktop\ITLA CUATRIMESTRE 7\Administración de proyectos de Software\Proyecto Final TDD\Proyecto Final TDD\obj\Debug\netcoreapp3.1\Proyecto Final TDD.csprojAssemblyReference.cache
+C:\Users\Lusan\Desktop\ITLA CUATRIMESTRE 7\Administración de proyectos de Software\Proyecto Final TDD\Proyecto Final TDD\obj\Debug\netcoreapp3.1\Proyecto Final TDD.AssemblyInfoInputs.cache
+C:\Users\Lusan\Desktop\ITLA CUATRIMESTRE 7\Administración de proyectos de Software\Proyecto Final TDD\Proyecto Final TDD\obj\Debug\netcoreapp3.1\Proyecto Final TDD.AssemblyInfo.cs
+C:\Users\Lusan\Desktop\ITLA CUATRIMESTRE 7\Administración de proyectos de Software\Proyecto Final TDD\Proyecto Final TDD\obj\Debug\netcoreapp3.1\Proyecto Final TDD.csproj.CoreCompileInputs.cache
+C:\Users\Lusan\Desktop\ITLA CUATRIMESTRE 7\Administración de proyectos de Software\Proyecto Final TDD\Proyecto Final TDD\bin\Debug\netcoreapp3.1\Proyecto Final TDD.deps.json
+C:\Users\Lusan\Desktop\ITLA CUATRIMESTRE 7\Administración de proyectos de Software\Proyecto Final TDD\Proyecto Final TDD\bin\Debug\netcoreapp3.1\Proyecto Final TDD.dll
+C:\Users\Lusan\Desktop\ITLA CUATRIMESTRE 7\Administración de proyectos de Software\Proyecto Final TDD\Proyecto Final TDD\bin\Debug\netcoreapp3.1\Proyecto Final TDD.pdb
+C:\Users\Lusan\Desktop\ITLA CUATRIMESTRE 7\Administración de proyectos de Software\Proyecto Final TDD\Proyecto Final TDD\obj\Debug\netcoreapp3.1\Proyecto Final TDD.dll
+C:\Users\Lusan\Desktop\ITLA CUATRIMESTRE 7\Administración de proyectos de Software\Proyecto Final TDD\Proyecto Final TDD\obj\Debug\netcoreapp3.1\Proyecto Final TDD.pdb
