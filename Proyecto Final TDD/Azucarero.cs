@@ -20,12 +20,12 @@ namespace Proyecto_Final_TDD
 
 		public int GetCantidadDeAzucar()
 		{
-			return cantidadDeAzucar;
+			return this.cantidadDeAzucar;
 		}
 
 		public bool HasAzucar(int cantidadDeAzucar)
 		{
-			if (cantidadDeAzucar <= cantidadDeAzucar)
+			if (cantidadDeAzucar <= this.cantidadDeAzucar)
 				return true;
 			return
 				false;
@@ -34,7 +34,7 @@ namespace Proyecto_Final_TDD
 		public void GiveAzucar(int cantidadDeAzucar)
 		{
 
-			cantidadDeAzucar -= cantidadDeAzucar;
+			this.cantidadDeAzucar -= cantidadDeAzucar;
 		}
 	}
 }
